@@ -1,3 +1,28 @@
 {
-  
+  "accounts": [
+    {
+      "id": "1",
+      "name": "Account 1",
+      "type": "Account type",
+      "currency": "Currency.EUR",
+      "note": "NOTES",
+      "balance": "1200"
+    },
+    {
+      "id": "2",
+      "name": "Account 2",
+      "type": "Account type",
+      "currency": "Currency.GBP",
+      "note": "NOTES uk",
+      "balance": "100"
+    },
+    {
+      "id": "3",
+      "name": "Account 3",
+      "type": "Account type",
+      "currency": "Currency.USD",
+      "note": "NOTES usd",
+      "balance": "100"
+    }
+  ]
 }
